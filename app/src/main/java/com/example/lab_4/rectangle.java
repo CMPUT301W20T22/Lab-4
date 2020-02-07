@@ -1,5 +1,5 @@
 package com.example.lab_4;
 
 public class rectangle extends Shape{
-    int colour = 2;
+    String color = "blue";
 }
