@@ -1,4 +1,4 @@
 package com.example.lab_4;
 
-public class Circle {
+public class Circle extends Shape {
 }
